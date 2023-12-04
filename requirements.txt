@@ -1,0 +1,8 @@
+tensorboardX
+efficientnet_pytorch
+einops
+timm
+yacs
+batchgenerators
+medpy
+nibabel

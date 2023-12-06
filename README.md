@@ -21,6 +21,8 @@ cd DPLR
 pip install -r requirements.txt
 ```
 
+</details>
+
 <details>
 <summary>Data Preparation</summary>
 

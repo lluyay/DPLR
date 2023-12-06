@@ -4,7 +4,7 @@ Code for the paper 'Semi-Supervised Medical Image Segmentation via Dynamic Pseud
 
 ## Environment Setup
 
-##### Installation
+### Installation
 
 
 1. Clone the repo
@@ -20,7 +20,7 @@ cd DPLR
 pip install -r requirements.txt
 ```
 
-##### Data Preparation
+### Data Preparation
 
 
 Download the processed data and put the data in `../data/BraTS2019` or `../data/ACDC`, please read and follow the [README](https://github.com/Luoxd1996/SSL4MIS/tree/master/data/).
